@@ -21,7 +21,7 @@
             android:paddingHorizontal="24dp"
             android:paddingTop="30dp">
 
-            <!-- Avatar as back button -->
+            <!-- back button -->
             <ImageView
                 android:id="@+id/back"
                 android:layout_width="32dp"
@@ -247,7 +247,7 @@
                         <TextView
                             android:layout_width="250dp"
                             android:layout_height="25dp"
-                            android:layout_marginTop="10dp"
+                            android:layout_marginTop="12dp"
                             android:text="@string/April_28_2025"
                             android:textColor="#666666"
                             android:textSize="11sp" />
@@ -308,7 +308,7 @@
                             android:text="April 30, 2025"
                             android:textSize="11sp"
                             android:textColor="#666666"
-                            android:layout_marginTop="4dp"
+                            android:layout_marginTop="12dp"
                             android:layout_width="250dp"
                             android:layout_height="25dp"/>
 
@@ -355,8 +355,8 @@
                         android:paddingStart="12dp">
 
                         <TextView
-                            android:text="Hackathon 2025 Kicks Off"
-                            android:textSize="16sp"
+                            android:text="Hackathon 2025 Begins"
+                            android:textSize="12sp"
                             android:textStyle="bold"
                             android:textColor="#000000"
                             android:maxLines="2"
@@ -365,7 +365,7 @@
                             android:layout_height="25dp"/>
 
                         <TextView
-                            android:text="May 18, 2025"
+                            android:text="May 20, 2025"
                             android:textSize="12sp"
                             android:textColor="#666666"
                             android:layout_marginTop="4dp"
@@ -378,9 +378,9 @@
                             android:layout_marginTop="4dp"
                             android:ellipsize="end"
                             android:maxLines="2"
-                            android:text="Tech enthusiasts gather for 48-hour innovation sprint..."
+                            android:text="Tech Enthusiasts Embark on 48-Hour Innovation Marathon"
                             android:textColor="#444444"
-                            android:textSize="13sp" />
+                            android:textSize="12sp" />
                     </LinearLayout>
                 </LinearLayout>
             </androidx.cardview.widget.CardView>
